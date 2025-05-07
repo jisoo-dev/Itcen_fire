@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ItcenFireApplication<itcen_fire>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.itcen_fire.ItcenFireApplication",
+            "projectName": "itcen_fire",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
